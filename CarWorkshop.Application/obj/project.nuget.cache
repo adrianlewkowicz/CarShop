@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "374LPYWELJaJVbkbW9Pja80+FVafa6FPhmyKX3WZG6zptCw9NNW89KDXe/BIishL2tlVT+ZHf6d01X8W/MUUzA==",
+  "success": false,
+  "projectFilePath": "/Users/adrianlewkowicz/Desktop/CarWorkshop.MVC-master/CarWorkshop.Application/CarWorkshop.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/adrianlewkowicz/.nuget/packages/automapper/12.0.0/automapper.12.0.0.nupkg.sha512",
+    "/Users/adrianlewkowicz/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.0/automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
+    "/Users/adrianlewkowicz/.nuget/packages/fluentvalidation/11.2.1/fluentvalidation.11.2.1.nupkg.sha512",
+    "/Users/adrianlewkowicz/.nuget/packages/fluentvalidation.aspnetcore/11.2.2/fluentvalidation.aspnetcore.11.2.2.nupkg.sha512",
+    "/Users/adrianlewkowicz/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.2.1/fluentvalidation.dependencyinjectionextensions.11.2.1.nupkg.sha512",
+    "/Users/adrianlewkowicz/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
+    "/Users/adrianlewkowicz/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/Users/adrianlewkowicz/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.0.0/mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "/Users/adrianlewkowicz/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/adrianlewkowicz/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/adrianlewkowicz/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/Users/adrianlewkowicz/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/adrianlewkowicz/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for '/Users/adrianlewkowicz/Desktop/CarWorkshop.MVC-master/CarWorkshop.Domain/CarWorkshop.Domain.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "/Users/adrianlewkowicz/Desktop/CarWorkshop.MVC-master/CarWorkshop.Domain/CarWorkshop.Domain.csproj",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}
